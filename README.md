@@ -1,16 +1,10 @@
-# movie_app
 
-A new Flutter project.
+# Movie App
 
-## Getting Started
+A powerful movie/shows recommender that shows the latest and popular entertainment content.
 
-This project is a starting point for a Flutter application.
+It can suggest other movies/shows based on your searching items.
 
-A few resources to get you started if this is your first Flutter project:
+It uses **TMDB** which is one of the biggest databases for entertainment content to support data retrival.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created using flutter!
